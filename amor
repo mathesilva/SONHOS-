@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uma Mensagem Especial</title>
+    <style>
+        body {
+            background-color: #f8f8f8;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            margin-top: 50px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #e91e63;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        .heart {
+            font-size: 2em;
+            color: #e91e63;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Oi, meu amor!</h1>
+    <p>Quero que saiba o quanto você é especial para mim.</p>
+    <p>Todos os dias ao seu lado são um presente.</p>
+    <p class="heart">❤️</p>
+    <p>Te amo muito!</p>
+</div>
+
+<footer>
+    <p>Com amor, [Seu Nome]</p>
+</footer>
+
+</body>
+</html>
